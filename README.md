@@ -1,8 +1,9 @@
 # Lord of the Rings (LOTR)
 ## The Virtual Keyboard
+<p aligh="center">
 Utilizing 8 accelerometers mounted on 3D printed rings, The Virtual Keyboard gives users the ability to type anywhere and anyway.
+</p>
 <p align="center">
-Utilizing 8 accelerometers mounted on 3D printed rings, The Virtual Keyboard gives users the ability to type anywhere and anyway.
   <img src ="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/532/205/datas/gallery.jpg" />
 </p>
 
