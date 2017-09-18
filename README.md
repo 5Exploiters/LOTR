@@ -20,6 +20,6 @@ A Raspberry Pi consolidates the data from all the accelerometrs. This data can b
 <p align="center">
   <img src ="https://i.imgur.com/CzWN8yi.png" />
 </p>
-<p align="center">
-  <h4>The Ring Mount</h4>
-</p>
+<h4><p align="center">
+  The Ring Mount
+</p></h4>
