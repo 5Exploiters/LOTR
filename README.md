@@ -19,4 +19,5 @@ A Raspberry Pi consolidates the data from all the accelerometrs. This data can b
 ## 8 Rings to Rule Them All
 <p align="center">
   <img src ="https://i.imgur.com/CzWN8yi.png" />
+  The Ring Mount
 </p>
