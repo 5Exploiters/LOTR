@@ -1,11 +1,12 @@
 # Lord of the Rings (LOTR)
 ### The Virtual Keyboard
+#### The Virtual Keyboard gives users the ability to type anywhere and anyway with just a simple glove. It utilizes 8 accelerometers mounted on 3D printed rings that measure finger tilt. 
 <p align="center">
   <img src ="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/532/205/datas/gallery.jpg" />
 </p>
 
 [Link to Top 10 Presentation](https://youtu.be/b9gjsGgpY4c?t=23m48s)
-The Virtual Keyboard gives users the ability to type anywhere and anyway with just a simple glove. It utilizes 8 accelerometers mounted on 3D printed rings that measure finger tilt. 
+
 ## Features
 ### Speech Impediment
 Approximately 7.5 million people have a speech impediment that impairs their ability to express themselves and communivate effectively. American sign language can be a hard skill to learn and requires both parties to know the language. With our product, a text-to-speech api, and a speaker, one can type in midair, and immediately the words will be said out loud allowing easy communication.
