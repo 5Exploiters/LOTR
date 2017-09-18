@@ -3,6 +3,7 @@
 <p align="center">
   <img src ="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/532/205/datas/gallery.jpg" />
 </p>
+
 [Link to Top 10 Presentation](https://youtu.be/b9gjsGgpY4c?t=23m48s)
 The Virtual Keyboard gives users the ability to type anywhere and anyway with just a simple glove. It utilizes 8 accelerometers mounted on 3D printed rings that measure finger tilt. 
 ## Features
