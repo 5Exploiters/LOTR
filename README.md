@@ -11,7 +11,7 @@ Utilizing 8 accelerometers mounted on 3D printed rings, LOTR gives users the abi
 
 ## Features
 ### Speech Impediment
-Approximately 7.5 million people have a speech impediment that impairs their ability to express themselves and communivate effectively. American sign language can be a hard skill to learn and requires both parties to know the language. With our product, a text-to-speech api, and a speaker, one can type in midair, and immediately the words will be said out loud allowing easy communication.
+Approximately 7.5 million people have a speech impediment that impairs their ability to express themselves and communivate effectively. American sign language can be a hard skill to learn and requires both parties to know the language. With our product, a text-to-speech API, and a speaker, one can type in midair, and immediately the words will be said out loud allowing easy communication.
 ### Virtual Reality
 Currently users of virtual reality must pick letters individually when typing. With LOTR, users are able to type with a fully immersive glove. This increases effieciency and speed.
 ### IOT Home
